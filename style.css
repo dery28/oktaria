@@ -1,0 +1,74 @@
+html {
+  position: relative;
+}
+
+body {
+ margin-bottom: 150px;
+}
+
+
+.jumbotron img {
+	width: 180px;
+	border: 5px solid #666;
+	border-radius: 90px;
+}
+
+ hr {
+	width: 250px;
+	border-top: 4px solid #999;
+}
+
+img {
+	background-size: cover;
+}
+
+section {
+	min-height: 500px;
+}
+
+.portfolio {
+	background-color: #eee;
+	padding-top: 20px;
+	margin-top: 10px;
+}
+
+.portfolio img {
+	margin-bottom: 30px;
+}
+
+.portfolio  hr {
+	margin-bottom: 30px;
+}
+
+
+.portofilio2 .col {
+	margin-bottom: 30px;
+}
+
+.portofilio2 .card {
+	background-color: #eee;
+}
+
+.contact {
+	margin-top: 60px;
+	height: 850px;
+	background-color: #eee;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	background-color: #333;
+	height: 100px;
+	width: 100%;
+}
+
+footer p {
+	color: grey;
+	margin-top: 10px;
+}
+
+.container h2 {
+	margin-top: 40px;
+}
+
